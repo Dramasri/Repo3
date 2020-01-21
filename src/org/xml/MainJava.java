@@ -32,5 +32,13 @@ public class MainJava extends Employee {
 		
 		System.out.println("the phone is " +emp.getPhone());
 		
+		System.out.println("hai hello");
+		
+		System.out.println("hello team");
+		
+		System.out.println("extra lines added");
+		
+		System.out.println("now check out");
+		
 	}
 }
